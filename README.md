@@ -1,14 +1,15 @@
-# 安装依赖
+# 基于小智框架，自定义的语音转格式工具
+## 安装依赖
 
 pip install -r requirements.txt
 
 
 ## 安装额外库or依赖
-# 安装 librosa
+## 安装 librosa  
 
 pip install librosa numpy tqdm sounddevice pyloudnorm soundfile
 
-# 安装 opuslib
+## 安装 opuslib
 
 pip install git+https://github.com/onbeep/opuslib.git
 
