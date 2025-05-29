@@ -1,7 +1,7 @@
 # 安装依赖
 
 pip install -r requirements.txt
-
+## 安装额外库or依赖
 # 安装 librosa
 
 pip install librosa numpy tqdm sounddevice pyloudnorm soundfile
