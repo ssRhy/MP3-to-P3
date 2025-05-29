@@ -1,6 +1,8 @@
 # 安装依赖
 
 pip install -r requirements.txt
+
+
 ## 安装额外库or依赖
 # 安装 librosa
 
@@ -21,3 +23,7 @@ python batch_convert.py
 # 运行单个转换
 
 python single_convert.py
+
+
+
+给个⭐
